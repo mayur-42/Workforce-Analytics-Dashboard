@@ -32,12 +32,17 @@ The dashboard highlights critical areas to improve workforce management. Below a
 
 ## 📈 **Features of the Dashboard**
 
-1. **Performance Metrics**: Analyze individual and team performance across various metrics.
-2. **Diversity Insights**: Explore inclusivity measures within the organization.
-3. **Custom Filters**: Interactive filters to segment data by department, location, and job role.
-4. **Employee Dashboard**: Visualize workforce demographics, including age, gender, and tenure.
-5. **Attrition Dashboard**: Identify patterns in employee turnover and retention.
-   
+# 1. Performance Metrics: Analyze individual and team performance across various metrics.
+# 2. Diversity Insights: Explore inclusivity measures within the organization.
+# 3. Custom Filters: Interactive filters to segment data by department, location, and job role.
+# 4. Employee Dashboard: Visualize workforce demographics, including age, gender, and tenure.
+
+![Employees](https://github.com/user-attachments/assets/dd2198ec-8751-4b07-95c9-e4a055d4d7d1)
+
+# 5. Attrition Dashboard: Identify patterns in employee turnover and retention.
+
+![Attrition](https://github.com/user-attachments/assets/bd9b794a-9efe-4297-80b7-604065e26c13)
+ 
 ---
 
 ## 📋 **KPIs Created Using DAX**
